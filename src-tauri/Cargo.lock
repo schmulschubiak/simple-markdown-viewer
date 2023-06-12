@@ -2343,7 +2343,7 @@ checksum = "238abfbb77c1915110ad968465608b68e869e0772622c9656714e73e5a1a522f"
 
 [[package]]
 name = "simple-markdown-viewer"
-version = "0.0.0"
+version = "0.0.3"
 dependencies = [
  "serde",
  "serde_json",

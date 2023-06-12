@@ -1,8 +1,8 @@
 [package]
 name = "simple-markdown-viewer"
-version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
+version = "0.0.3"
+description = "A Simple Markdown Viewer"
+authors = ["Markus Waldow"]
 license = ""
 repository = ""
 edition = "2021"
